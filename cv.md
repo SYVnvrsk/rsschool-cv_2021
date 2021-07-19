@@ -1,7 +1,7 @@
 # CV
 ## Personal information
 Name | Yury Slivankov
----
+---- | ----
 Phone number | +7-999-630-5155
 Date of birth | 24th March 1994
 Nationality | Russian
