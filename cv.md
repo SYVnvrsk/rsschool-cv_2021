@@ -26,3 +26,4 @@ Novorossiysk, Russia
 *intern web-developer*
 ## Code examples
 ### Coderanks examples
+https://www.codewars.com/users/SYVnvrsk/completed_solutions
